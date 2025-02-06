@@ -1,6 +1,7 @@
 # Digitalclock
 
 We developed a responsive and creative digital clock using HTML, CSS, and JavaScript technologies.
+
 https://raushanctf.github.io/Digitalclock/
 
 # How it works
