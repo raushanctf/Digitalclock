@@ -1,6 +1,7 @@
 # Digitalclock
 
-We developed a responsive and creative digital clock using  HTML, CSS, and JavaScript.
+We developed a responsive and creative digital clock using HTML, CSS, and JavaScript technologies.
+https://raushanctf.github.io/Digitalclock/
 
 # How it works
 * HTML sets up the basic structure, including a div element with a clock ID where the time will be displayed.
